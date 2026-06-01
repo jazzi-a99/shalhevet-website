@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS public.member_verification_requests CASCADE;
